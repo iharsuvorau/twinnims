@@ -1,0 +1,22 @@
+<header class="site-header">
+    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    {{ with .Site.Menus.main }}
+	<nav class="site-main-navigation">
+	    <ul class="list-reset">
+		{{ range . }}
+		    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+		{{ end }}
+		{{ with $.Site.Sections }}
+		    {{ range . }}
+			{{ if ne .Name "Pages"}}
+			    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+			{{ end }}
+		    {{ end }}
+		{{ end }}
+	    </ul>
+	</nav>
+	<nav class="site-main-navigation-mobile">
+	    mobile navigation
+	</nav>
+    {{ end }}
+</header>

@@ -1,0 +1,19 @@
+baseURL = "https://www.twinnims.eu/"
+title = "Twinnims"
+theme = "twinnims"
+defaultContentLanguage = "en"
+enableMissingTranslationPlaceholders = true
+
+[languages]
+  [languages.en]
+    title = "Twinnims EN"
+    weight = 1
+  [languages.ee]
+    title = "Twinnims EE"
+    weight = 2
+  [languages.fr]
+    title = "Twinnims FR"
+    weight = 2
+  [languages.it]
+    title = "Twinnims IT"
+    weight = 3

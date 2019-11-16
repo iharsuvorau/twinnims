@@ -1,0 +1,109 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.list-reset {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.wrapper {
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-auto-rows: minmax(3em, auto);
+  grid-gap: 2em;
+  grid-template-areas: 
+    "hd hd hd hd hd hd hd hd hd hd hd hd"
+    "main main main main main main main main main sd sd sd"
+    "ft ft ft ft ft ft ft ft ft ft ft ft";
+}
+
+/* mobile layout */
+@media screen and (max-width: 1000px) {
+  .wrapper {
+    grid-template-areas: 
+      "hd hd hd hd hd hd hd hd hd hd hd hd"
+      "main main main main main main main main main main main main"
+      "sd sd sd sd sd sd sd sd sd sd sd sd"
+      "ft ft ft ft ft ft ft ft ft ft ft ft";    
+  }
+
+  .site-main-navigation {
+    display: none !important;
+  }
+
+  .site-main-navigation-mobile {
+    display: block !important;
+  }
+
+  .site-main-navigation {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
+
+/* big screens layout */
+@media screen and (min-width: 1600px) {
+  .site-header {
+    grid-column-start: 2 !important;
+    grid-column-end: 12 !important;
+  }
+
+  .site-main {
+    grid-column-start: 2 !important;
+    grid-column-end: 9 !important;
+  }
+
+  .site-sidebar {
+    grid-column-start: 9 !important;
+    grid-column-end: 12 !important;
+  }
+}
+
+.site-header, .site-footer, .site-main, .site-sidebar {
+  padding: 1em;
+}
+
+.site-header {
+  grid-area: hd;
+  border: 1px solid magenta;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-footer {
+  grid-area: ft;
+  border: 1px solid magenta;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.site-main {
+  grid-area: main;
+  border: 1px solid magenta;
+}
+
+.site-sidebar {
+  grid-area: sd;
+  border: 1px solid magenta;
+}
+
+.site-main-navigation-mobile {
+  display: none;
+}
+
+.site-main-navigation ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.site-main-navigation ul li {
+  margin: 0 1em;
+}

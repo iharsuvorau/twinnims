@@ -1,0 +1,10 @@
+name = "Twinnims"
+description = "twinnims.eu theme"
+homepage = "https://bitbucket.org/iharsuvorau/twinnims"
+tags = ["project", "estonia"]
+features = ["blog"]
+min_version = "0.20"
+
+[author]
+name = "Ihar Suvorau"
+homepage = "https://bitbucket.org/iharsuvorau"
