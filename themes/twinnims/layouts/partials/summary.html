@@ -1,0 +1,16 @@
+<nav class="site-summary-list">
+    {{ with .Site.Menus.main }}
+	{{ range . }}
+	    <article class="site-summary-list-item">
+		<h2><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></h2>
+		{{ with .Page }}
+		    <p>
+			{{ .Summary }}
+		    </p>
+		{{ end }}
+	    </article>
+	{{ end }}
+    {{ end }}
+</nav>
+
+

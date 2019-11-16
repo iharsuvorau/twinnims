@@ -6,13 +6,6 @@
 		{{ range . }}
 		    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
 		{{ end }}
-		{{ with $.Site.Sections }}
-		    {{ range . }}
-			{{ if ne .Name "Pages"}}
-			    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
-			{{ end }}
-		    {{ end }}
-		{{ end }}
 	    </ul>
 	</nav>
 	<nav class="site-main-navigation-mobile">

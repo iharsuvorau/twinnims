@@ -9,6 +9,8 @@ html, body {
   list-style-type: none;
 }
 
+/* structural elements */
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
@@ -106,4 +108,39 @@ html, body {
 
 .site-main-navigation ul li {
   margin: 0 1em;
+}
+
+/* stylistic elements */
+
+.page-description {
+  font-size: 3em;
+  margin-bottom: 4rem;
+}
+
+@media screen and (max-width: 500px) {
+  .page-description {
+    font-size: 2em;
+  }
+}
+
+.site-summary-list {
+  margin-bottom: 4rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.site-summary-list-item {
+  width: 33%;
+}
+
+@media screen and (max-width: 1000px) {
+  .site-summary-list-item {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .site-summary-list-item {
+    width: 100%;
+  }
 }

@@ -1,7 +1,7 @@
 ---
 title: "About"
 subtitle:
-summary: 
+summary: The idea behind the project
 slug:
 date: 2019-11-15T00:33:50+02:00
 publishDate: 2019-11-15T00:33:50+02:00
