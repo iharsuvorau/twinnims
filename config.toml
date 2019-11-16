@@ -6,7 +6,7 @@ enableMissingTranslationPlaceholders = true
 
 [languages]
   [languages.en]
-    title = "Twinnims EN"
+    title = "Twinnims"
     weight = 1
   [languages.ee]
     title = "Twinnims EE"

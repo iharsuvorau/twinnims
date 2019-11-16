@@ -1,5 +1,9 @@
 <header class="site-header">
-    <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    <div class="header-graphics"></div>
+    <div class="logotype">
+	<a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Title }}" src="/img/logotype@2x.png"/></a>
+	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+    </div>
     {{ with .Site.Menus.main }}
 	<nav class="site-main-navigation">
 	    <ul class="list-reset">
@@ -9,7 +13,7 @@
 	    </ul>
 	</nav>
 	<nav class="site-main-navigation-mobile">
-	    mobile navigation
+	    <img alt="" src="/img/menu.svg" />
 	</nav>
     {{ end }}
 </header>
