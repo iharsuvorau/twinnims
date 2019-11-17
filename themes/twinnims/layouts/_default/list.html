@@ -1,10 +1,18 @@
 {{ define "main" }}
     <main class="site-main list-view">
 	{{ if or .Title .Content }}
-	    <div>
-		{{ with .Title }}<h1>{{ . }}</h1>{{ end }}
+	    <header class="mb2">
+		{{ with .Title }}<h1 class="mb1">{{ . }}</h1>{{ end }}
 		{{ with .Content }}<div>{{ . }}</div>{{ end }}
-	    </div>
+	    </header>
+	{{ end }}
+
+	{{ range .Pages }}
+	    <article class="mb2">
+		<h2><a href="{{ .URL | relLangURL }}">{{ .Title }}</a></h2>
+		<p>{{.Summary}}</p>
+		<footer>☞ Published on <abbr title="{{.PublishDate}}"><time>{{.PublishDate.Format "02.01.2006"}}</time></abbr></footer>
+	    </article>
 	{{ end }}
     </main>
     {{ partial "sidebar.html" . }}

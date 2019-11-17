@@ -11,4 +11,4 @@ menu: "main"
 weight: 20
 ---
 
-consortium page
+Partners, contacts, logos, emails, homepages.

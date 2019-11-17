@@ -1,24 +1,29 @@
 {{ define "main" }}
     <main class="site-main single-view">
-	<article>
-	    <h1>{{ .Title }}</h1>
-	    <time>{{ .Date.Format "02.01.2006 15:04" }}</time>
-	    <div>
-		{{ .Content }}
+	{{ with .Params.Subtitle }}
+	    <div class="page-description">
+		{{ . }}
 	    </div>
-	    {{ with .Params.tags }}
-		<div>
-		    <ul id="tags">
-			{{ range . }}
-			    <li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-			{{ end }}
-		    </ul>
-		</div>
-	    {{ end }}
+	{{ end }}
+	<h1 class="dark-blue mb1">{{ .Title }}</h1>
+	<div>
+	    {{ .Content }}
+	</div>
+	{{ with .Params.tags }}
 	    <div>
-		{{ template "_internal/disqus.html" . }}
+		<ul id="tags">
+		    {{ range . }}
+			<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+		    {{ end }}
+		</ul>
 	    </div>
-	</article>
+	{{ end }}
+	<div>
+	    {{ template "_internal/disqus.html" . }}
+	</div>
+	<footer>
+	    <time>☞ The page was last modified on {{ .Lastmod.Format "02.01.2006" }}</time>
+	</footer>
     </main>
     {{ partial "sidebar.html" . }}
 {{ end }}

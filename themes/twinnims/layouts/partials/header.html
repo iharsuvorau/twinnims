@@ -4,11 +4,12 @@
 	<a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Title }}" src="/img/logotype@2x.png"/></a>
 	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
     </div>
+    {{ $currentPage := . }}
     {{ with .Site.Menus.main }}
 	<nav class="site-main-navigation">
 	    <ul class="list-reset">
 		{{ range . }}
-		    <li><a href="{{ .URL | relLangURL }}">{{ .Name }}</a></li>
+		    <li><a href="{{ .URL | relLangURL }}" class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></li>
 		{{ end }}
 	    </ul>
 	</nav>
