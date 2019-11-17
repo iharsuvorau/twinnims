@@ -1,0 +1,29 @@
+[pageLastMod]
+other = "The page was last modified on"
+
+[publishedOn]
+other = "Published on"
+
+[fundedByEU]
+other = "The project is funded by EU"
+
+[projectInfo]
+other = "Project Information"
+
+[fundedUnder]
+other = "Funded under"
+
+[startDate]
+other = "Start date"
+
+[endDate]
+other = "End date"
+
+[ecDescription]
+other = "EC description"
+
+[participants]
+other = "Participants"
+
+[coordinatedBy]
+other = "Coordinated by"

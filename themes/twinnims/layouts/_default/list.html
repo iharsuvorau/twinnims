@@ -11,7 +11,7 @@
 	    <article class="mb2">
 		<h2><a href="{{ .URL | relLangURL }}">{{ .Title }}</a></h2>
 		<p>{{.Summary}}</p>
-		<footer>☞ Published on <abbr title="{{.PublishDate}}"><time>{{.PublishDate.Format "02.01.2006"}}</time></abbr></footer>
+		<footer>☞ {{ T "publishedOn" }} <abbr title="{{.PublishDate}}"><time>{{.PublishDate.Format "02.01.2006"}}</time></abbr></footer>
 	    </article>
 	{{ end }}
     </main>

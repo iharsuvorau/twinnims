@@ -77,7 +77,6 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   font-size: 2.35em;
-  line-height: 1.15em;
 }
 
 a {
@@ -285,22 +284,9 @@ figcaption p {
   background: #63C827;
 }
 
+
 .site-main-navigation a:hover, .site-main-navigation a:focus {
   background: #63C827;
-}
-
-.language-menu-item a {
-  font-family: "Rubik Medium", "Arial", sans-serif;
-  padding: .35em .4em;
-  border-radius: 1em;
-  text-decoration: none;
-  background: white;
-  color: #0052B1;
-}
-
-.language-menu-item a:hover, .language-menu-item a:focus {
-  background: #63C827;
-  color: white;
 }
 
 /* stylistic elements */

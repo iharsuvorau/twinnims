@@ -9,11 +9,11 @@ enableMissingTranslationPlaceholders = true
     title = "Twinnims"
     weight = 1
   [languages.ee]
-    title = "Twinnims EE"
+    title = "Twinnims"
     weight = 2
   [languages.fr]
-    title = "Twinnims FR"
+    title = "Twinnims"
     weight = 2
   [languages.it]
-    title = "Twinnims IT"
+    title = "Twinnims"
     weight = 3
