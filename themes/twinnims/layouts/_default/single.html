@@ -22,7 +22,7 @@
 	    {{ template "_internal/disqus.html" . }}
 	</div>
 	<footer>
-	    <time>☞ The page was last modified on {{ .Lastmod.Format "02.01.2006" }}</time>
+	    <time>☞ {{ T "pageLastMod" }} {{ .Lastmod.Format "02.01.2006" }}</time>
 	</footer>
     </main>
     {{ partial "sidebar.html" . }}

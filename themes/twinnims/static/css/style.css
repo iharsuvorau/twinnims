@@ -162,6 +162,7 @@ figcaption p {
   .site-header {
     grid-column-start: 2 !important;
     grid-column-end: 12 !important;
+    position: initial !important;
   }
 
   .site-main {
@@ -181,8 +182,8 @@ figcaption p {
 }
 
 .site-header {
+  position: relative;
   grid-area: hd;
-  //border: 1px solid magenta;
   padding-top: 2em;
   display: flex;
   justify-content: space-between;
@@ -213,7 +214,6 @@ figcaption p {
 .site-footer {
   font-family: "Rubik Light";
   grid-area: ft;
-  //border: 1px solid magenta;
   background: #E0EAF7;
   display: flex;
   justify-content: space-between;
@@ -223,12 +223,10 @@ figcaption p {
 
 .site-main {
   grid-area: main;
-  //border: 1px solid magenta;
 }
 
 .site-sidebar {
   grid-area: sd;
-  //border: 1px solid magenta;
   z-index: 100;
 }
 
@@ -380,7 +378,7 @@ figcaption p {
   line-height: 1.25em;
 }
 
-.header-graphics {
+.header-graphics-1 {
   position: absolute;
   top: 0;
   right: 0;
@@ -391,20 +389,30 @@ figcaption p {
 }
 
 /* using pseudo-element to not rotate an image, but only tha mask */
-.header-graphics:before {
+.header-graphics-1:before {
   content: "";
   position: absolute;
   top: -3em;
-  right: -8em;
+  right: -9em;
   width: 300px;
   height: 30em;
   background: url("/img/human-cell@2x.jpg") no-repeat;
-  background-size: cover;
+  background-size: contain;
+}
 
+.header-graphics-2 {
+  position: absolute;
+  top: 4em;
+  right: -9em;
+  width: 400px;
+  height: 30em;
+  z-index: 9;
+  transform: rotate(-105deg);
+  background: #0052B1;
 }
 
 @media screen and (max-width: 1000px) {
-  .header-graphics {
+  .header-graphics-1 {
     display: none;
   }
 }
