@@ -1,4 +1,5 @@
 ---
+title: Twinnims
 subtitle: Tartu ülikooli meditsiiniseadmete ja robootika funktsionaalsete materjalide teadusliku tipptaseme ja tehnoloogilise innovatsiooni võimekuse suurendamine
 ---
 

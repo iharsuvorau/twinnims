@@ -1,4 +1,5 @@
 ---
+title: Twinnims
 subtitle: Aumentare l'eccellenza scientifica e la capacità di innovazione tecnologica nei materiali funzionali per dispositivi medici e robotica dell'Università di Tartu
 ---
 

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Twinnims</title>
+    <link>https://www.twinnims.eu/fr/pages/</link>
+    <description>Recent content in Pages on Twinnims</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Nov 2019 14:22:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://www.twinnims.eu/fr/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projet Twinnims</title>
+      <link>https://www.twinnims.eu/fr/pages/about/</link>
+      <pubDate>Fri, 15 Nov 2019 00:33:50 +0200</pubDate>
+      
+      <guid>https://www.twinnims.eu/fr/pages/about/</guid>
+      <description>L&amp;rsquo;idée derrière le projet</description>
+    </item>
+    
+    <item>
+      <title>Consortium</title>
+      <link>https://www.twinnims.eu/fr/pages/consortium/</link>
+      <pubDate>Sat, 16 Nov 2019 14:16:30 +0200</pubDate>
+      
+      <guid>https://www.twinnims.eu/fr/pages/consortium/</guid>
+      <description>Partners of the project with contact information</description>
+    </item>
+    
+    <item>
+      <title>Conseil consultatif</title>
+      <link>https://www.twinnims.eu/fr/pages/advisory-board/</link>
+      <pubDate>Sat, 16 Nov 2019 14:18:43 +0200</pubDate>
+      
+      <guid>https://www.twinnims.eu/fr/pages/advisory-board/</guid>
+      <description>Les personnes qui supervisent la mise en œuvre du projet</description>
+    </item>
+    
+    <item>
+      <title>Gens</title>
+      <link>https://www.twinnims.eu/fr/pages/people/</link>
+      <pubDate>Sat, 16 Nov 2019 14:19:55 +0200</pubDate>
+      
+      <guid>https://www.twinnims.eu/fr/pages/people/</guid>
+      <description>Liste des personnes participant aux Twinnims</description>
+    </item>
+    
+    <item>
+      <title>Des publications</title>
+      <link>https://www.twinnims.eu/fr/pages/publications/</link>
+      <pubDate>Sat, 16 Nov 2019 14:22:25 +0200</pubDate>
+      
+      <guid>https://www.twinnims.eu/fr/pages/publications/</guid>
+      <description>Participation ouverte à la publication des participants</description>
+    </item>
+    
+  </channel>
+</rss>
