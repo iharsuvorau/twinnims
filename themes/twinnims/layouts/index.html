@@ -4,7 +4,22 @@
 	    <div class="page-description">{{ . }}</div>
 	{{ end }}
 	{{ partial "summary.html" . }}
-	<article>{{ .Content }}</article>
+	{{ with .Content }}<article class="mb4">{{ . }}</article>{{ end }}
+	<!-- recent news
+	{{ with $.Site.GetPage "/news" }}
+	    <section class="recent-news mb4">
+		<h2>{{ T "recentNews" }}</h2>
+		<div class="recent-news-list">
+		    {{ range first 10 .Pages }}
+			<article class="mb1">
+			    <h3 class="m0"><a href="{{ .URL | relLangURL }}">{{.Name}}</a></h3>
+			    <span class="small-sans">{{ .PublishDate.Format "02 Jan 2006" }}</span>
+			</article>
+		    {{ end }}
+		</div>
+	    </section>
+	{{ end }}
+	-->
     </main>
     {{ partial "sidebar.html" . }}
 {{ end }}

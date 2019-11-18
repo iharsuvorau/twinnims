@@ -26,15 +26,18 @@ Canada 🇨🇦
 
 ## Zicai Zhu
 
-Associate Professor, Xi´an Jiaotong University<br/>
+Associate Professor<br/>
+Xi´an Jiaotong University<br/>
 China 🇨🇳
 
 ## Yanhai Zhang
 
-Project Manager, Huawei Technologies Co., LTD<br/>
+Project Manager<br/>
+Huawei Technologies Co., LTD<br/>
 China 🇨🇳
 
 ## Daan van den Ende
 
-Senior Scientist, Philips<br/>
+Senior Scientist<br/>
+Philips<br/>
 Netherlands 🇳🇱

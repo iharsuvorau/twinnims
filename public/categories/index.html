@@ -11,13 +11,14 @@
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="alternate" type="application/rss+xml" href="/categories/index.xml" title="Twinnims">
 	<link href="/img/favicon-3_32.svg" rel="icon" sizes="32x32" />
+	<script src="/js/main.js"></script>
     </head>
     <body class="wrapper">
 	<header class="site-header">
     <div class="header-graphics-1"></div>
     <div class="logotype">
-	<a href="https://www.twinnims.eu/"><img alt="Twinnims" src="/img/logotype@2x.png"/></a>
-	<a href="https://www.twinnims.eu/">Twinnims</a>
+	<a href="https://www.twinnims.eu/"><img alt="Twinnims" srcset="/img/logotype.png, /img/logotype@2x.png 2x" src="/img/logotype.png" /></a>
+	<a href="https://www.twinnims.eu/" class="mr1 ml1">Twinnims</a>
     </div>
     
     
@@ -47,11 +48,72 @@
 		
 	    </ul>
 	</nav>
-	<nav class="site-main-navigation-mobile">
-	    <img alt="" src="/img/menu.svg" />
-	</nav>
     
 </header>
+
+
+    <div id="mobile-menu-btn-wrapper" class="mobile-menu-btn-wrapper"><span class="mobile-menu-btn"></span></div>
+
+    <div id="mobile-menu" class="mobile-menu">
+	<section class="mobile-site-nav flex flex-column">
+	    
+		<h2 class="m0 mb1"><a href="/pages/about/" class="thick-underline ">About</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/pages/consortium/" class="thick-underline ">Consortium</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/pages/advisory-board/" class="thick-underline ">Advisory Board</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/pages/people/" class="thick-underline ">People</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/pages/publications/" class="thick-underline ">Publications</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/news/" class="thick-underline ">News</a></h2>
+	    
+	</section>
+	
+	    <nav class="mobile-translations flex">
+		
+		    <a class="mr1" href="https://www.twinnims.eu/ee/categories/">ee</a>
+		
+		    <a class="mr1" href="https://www.twinnims.eu/fr/categories/">fr</a>
+		
+		    <a class="mr1" href="https://www.twinnims.eu/it/categories/">it</a>
+		
+	    </nav>
+	
+	
+	    <section class="mobile-recent-news">
+		<h3>Recent News</h3>
+		
+		    <article class="mb1">
+			<h3 class="m0"><a href="/news/youtube-example/">Youtube Example</a></h3>
+			<span class="small-sans">17 Nov 2019</span>
+		    </article>
+		
+		    <article class="mb1">
+			<h3 class="m0"><a href="/news/tweet-example/">Tweet Example</a></h3>
+			<span class="small-sans">17 Nov 2019</span>
+		    </article>
+		
+		    <article class="mb1">
+			<h3 class="m0"><a href="/news/sed-nisi/">Sed Nisi</a></h3>
+			<span class="small-sans">17 Nov 2019</span>
+		    </article>
+		
+		    <article class="mb1">
+			<h3 class="m0"><a href="/news/condimentum-vitae/">Condimentum Vitae</a></h3>
+			<span class="small-sans">17 Nov 2019</span>
+		    </article>
+		
+		    <article class="mb1">
+			<h3 class="m0"><a href="/news/lorem-ipsum/">Lorem Ipsum</a></h3>
+			<span class="small-sans">17 Nov 2019</span>
+		    </article>
+		
+	    </section>
+	
+    </div>
+
 
 	
     <main class="site-main list-view">

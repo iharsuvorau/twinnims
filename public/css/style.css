@@ -121,7 +121,7 @@ figcaption p {
   display: grid;
   height: 100%;
   grid-template-columns: repeat(12, 1fr);
-  grid-auto-rows: auto 1fr 3.45em;
+  grid-auto-rows: auto 1fr auto;
   grid-row-gap: 3.5em;
   grid-template-areas: 
     "hd hd hd hd hd hd hd hd hd hd hd hd"
@@ -144,15 +144,38 @@ figcaption p {
     display: none !important;
   }
 
-  .site-main-navigation-mobile {
+  .mobile-menu-btn-wrapper {
     display: block !important;
     position: fixed;
     top: 1em;
-    right: 1em;
+    right: 1.5em;
+    width: 28px;
+    height: 20px;
+    z-index: 101;
+    background: white;
+    padding: .6em .45em;
+    border-radius: .5em;
+    box-shadow: 0px 1px 3px rgba(0,82,177,0.2);
   }
 
-  .site-main-navigation-mobile:hover, .site-main-navigation-mobile:focus {
+  .mobile-menu-btn {
+    display: block;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 28px;
+    height: 20px;
+    mask: url("/img/menu-mask.svg");
+    -webkit-mask-image: url("/img/menu-mask.svg");
+    -webkit-mask: url("/img/menu-mask.svg");
+    -webkit-size: cover;
+    background: #0052B1;
     cursor: pointer;
+  }  
+
+  .mobile-menu-btn:hover, .mobile-menu-btn:focus {
+    cursor: pointer;
+    background: #63C827;
   }
 
   .site-main-navigation {
@@ -218,7 +241,7 @@ figcaption p {
   }
 
   .logotype img {
-    width: 10em;
+    width: 145px;
   }
 }
 
@@ -227,6 +250,7 @@ figcaption p {
 }
 
 .site-footer {
+  padding: .8em 2em;
   font-family: "Rubik Light";
   grid-area: ft;
   background: #E0EAF7;
@@ -247,9 +271,12 @@ figcaption p {
 
 .logotype {
   display: flex;
-  width: 240px;
   align-items: center;
   margin-left: -1em;
+}
+
+.logotype img {
+  width: 100px;
 }
 
 .logotype a {
@@ -264,11 +291,40 @@ figcaption p {
   color: #63C827;
 }
 
-.site-main-navigation-mobile {
+.mobile-menu-btn-wrapper {
   display: none;
-  z-index: 100;
-  padding: 1em;
 }
+
+.mobile-menu {
+  display: none;
+}
+
+.mobile-menu.active {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 2em;
+  grid-template-areas:
+    "langs lanags"
+    "nav nav"
+    "news news";
+
+  position: fixed;
+  top: 0;
+  right: 0;
+  overflow-y: scroll;
+
+  background: white;
+  padding: 2em;
+  z-index: 120;
+  min-width: 60%;
+  max-width: 75%;
+  height: 100%;
+  box-shadow: 0.5em 0.5em 2.5em rgba(0,0,0,0.4);
+}
+
+.mobile-site-nav { grid-area: nav; }
+.mobile-translations { grid-area: langs; }
+.mobile-recent-news { grid-area: news; }
 
 .site-main-navigation {
   margin: 1em 0;
@@ -498,6 +554,15 @@ figcaption p {
   margin-bottom: 2em;
 }
 
+
+.mr1 {
+  margin-right: 1em;
+}
+
+.ml1 {
+  margin-left: 1em;
+}
+
 .eu-wrapper {
   display: flex;
   align-items: center;
@@ -511,6 +576,10 @@ figcaption p {
 
 .flex {
   display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
 }
 
 .justify-between {
@@ -539,4 +608,8 @@ figcaption p {
 
 .dark-blue {
   color: #0052B1;
+}
+
+.thick-underline {
+  text-decoration-thickness: .2rem;
 }

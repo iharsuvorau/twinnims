@@ -12,13 +12,14 @@
 	<link rel="stylesheet" href="/css/style.css">
 	<link rel="alternate" type="application/rss+xml" href="/it/index.xml" title="Twinnims">
 	<link href="/img/favicon-3_32.svg" rel="icon" sizes="32x32" />
+	<script src="/js/main.js"></script>
     </head>
     <body class="wrapper">
 	<header class="site-header">
     <div class="header-graphics-1"></div>
     <div class="logotype">
-	<a href="https://www.twinnims.eu/"><img alt="Twinnims" src="/img/logotype@2x.png"/></a>
-	<a href="https://www.twinnims.eu/">Twinnims</a>
+	<a href="https://www.twinnims.eu/"><img alt="Twinnims" srcset="/img/logotype.png, /img/logotype@2x.png 2x" src="/img/logotype.png" /></a>
+	<a href="https://www.twinnims.eu/" class="mr1 ml1">Twinnims</a>
     </div>
     
     
@@ -46,11 +47,40 @@
 		
 	    </ul>
 	</nav>
-	<nav class="site-main-navigation-mobile">
-	    <img alt="" src="/img/menu.svg" />
-	</nav>
     
 </header>
+
+
+    <div id="mobile-menu-btn-wrapper" class="mobile-menu-btn-wrapper"><span class="mobile-menu-btn"></span></div>
+
+    <div id="mobile-menu" class="mobile-menu">
+	<section class="mobile-site-nav flex flex-column">
+	    
+		<h2 class="m0 mb1"><a href="/it/pages/about/" class="thick-underline ">About</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/it/pages/consortium/" class="thick-underline ">Consortium</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/it/pages/advisory-board/" class="thick-underline ">Advisory Board</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/it/pages/people/" class="thick-underline ">People</a></h2>
+	    
+		<h2 class="m0 mb1"><a href="/it/pages/publications/" class="thick-underline ">Publications</a></h2>
+	    
+	</section>
+	
+	    <nav class="mobile-translations flex">
+		
+		    <a class="mr1" href="https://www.twinnims.eu/">en</a>
+		
+		    <a class="mr1" href="https://www.twinnims.eu/ee/">ee</a>
+		
+		    <a class="mr1" href="https://www.twinnims.eu/fr/">fr</a>
+		
+	    </nav>
+	
+	
+    </div>
+
 
 	
     <main class="site-main">
