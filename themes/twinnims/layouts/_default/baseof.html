@@ -13,6 +13,7 @@
 	    {{ printf `<link rel="%s" type="%s" href="%s" title="%s">` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
 	{{- end }}
 	<link href="/img/favicon-3_32.svg" rel="icon" sizes="32x32" />
+	<script src="{{ "js/main.js" | relURL }}"></script>
     </head>
     <body class="wrapper">
 	{{ partial "header" . }}

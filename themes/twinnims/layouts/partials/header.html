@@ -1,8 +1,8 @@
 <header class="site-header">
     <div class="header-graphics-1"></div>
     <div class="logotype">
-	<a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Title }}" src="/img/logotype@2x.png"/></a>
-	<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	<a href="{{ .Site.BaseURL }}"><img alt="{{ .Site.Title }}" srcset="/img/logotype.png, /img/logotype@2x.png 2x" src="/img/logotype.png" /></a>
+	<a href="{{ .Site.BaseURL }}" class="mr1 ml1">{{ .Site.Title }}</a>
     </div>
     {{ $currentPage := . }}
     {{ with .Site.Menus.main }}
@@ -18,8 +18,35 @@
 		{{ end }}
 	    </ul>
 	</nav>
-	<nav class="site-main-navigation-mobile">
-	    <img alt="" src="/img/menu.svg" />
-	</nav>
     {{ end }}
 </header>
+
+{{ with .Site.Menus.main }}
+    <div id="mobile-menu-btn-wrapper" class="mobile-menu-btn-wrapper"><span class="mobile-menu-btn"></span></div>
+
+    <div id="mobile-menu" class="mobile-menu">
+	<section class="mobile-site-nav flex flex-column">
+	    {{ range . }}
+		<h2 class="m0 mb1"><a href="{{ .URL | relLangURL }}" class="thick-underline {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">{{ .Name }}</a></h2>
+	    {{ end }}
+	</section>
+	{{ if $.IsTranslated }}
+	    <nav class="mobile-translations flex">
+		{{ range $.Page.Translations }}
+		    <a class="mr1" href="{{ .Permalink }}">{{.Lang}}</a>
+		{{ end }}
+	    </nav>
+	{{ end }}
+	{{ with $.Site.GetPage "/news" }}
+	    <section class="mobile-recent-news">
+		<h3>{{ T "recentNews" }}</h3>
+		{{ range first 10 .Pages }}
+		    <article class="mb1">
+			<h3 class="m0"><a href="{{ .URL | relLangURL }}">{{.Name}}</a></h3>
+			<span class="small-sans">{{ .PublishDate.Format "02 Jan 2006" }}</span>
+		    </article>
+		{{ end }}
+	    </section>
+	{{ end }}
+    </div>
+{{ end }}

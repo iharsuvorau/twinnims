@@ -27,3 +27,9 @@ other = "Participants"
 
 [coordinatedBy]
 other = "Coordinated by"
+
+[translations]
+other = "Translations"
+
+[recentNews]
+other = "Recent News"
