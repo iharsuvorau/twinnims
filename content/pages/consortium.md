@@ -5,11 +5,26 @@ summary: Partners of the project with contact information
 slug:
 date: 2019-11-16T14:16:30+02:00
 publishDate: 2019-11-16T14:16:30+02:00
-lastmod: 2019-11-18T23:00:30+02:00
+lastmod: 2019-11-19T14:49:21+02:00
 expiryDate: 
 draft: false
 menu: "main"
 weight: 20
+---
+
+## Tartu Ülikool
+
+<img srcset="/img/ut-logo@.png, /img/ut-logo@2x.png 2x" src="/img/ut-logo.png" width="85px">
+
+Professor [Alvo Aabloo](https://ims.ut.ee/User:Alvo)<br/>
+[+372 507-8356](tel:+372 507-8356)<br/>
+[alvo.aabloo@ut.ee](mailto:alvo.aabloo@ut.ee)
+
+Tartu Ülikool, Ülikooli 18, 50090 Tartu<br/>
+[www.ut.ee](https://www.ut.ee/et)
+
+Estonia 🇪🇪
+
 ---
 
 ## Fondazione Istituto Italiano di Tecnologia

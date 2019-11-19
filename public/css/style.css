@@ -98,6 +98,10 @@ a {
   text-underline-offset: .2rem;
 }
 
+hr {
+  border: 1px dotted #E0EAF7;
+}
+
 img {
   max-width: 100%;
 }
@@ -396,6 +400,18 @@ figcaption p {
   }
 }
 
+.recent-news-list {
+  display: grid;
+  grid-column-gap: 4em;
+  grid-template-columns: 1fr;
+}
+
+@media screen and (max-width: 1000px) {
+  .recent-news-list {
+    grid-template-columns: 1fr;
+  }
+}
+
 .site-summary-list {
   margin-bottom: 4rem;
   display: flex;
@@ -554,6 +570,9 @@ figcaption p {
   margin-bottom: 2em;
 }
 
+.mb4 {
+  margin-bottom: 4em;
+}
 
 .mr1 {
   margin-right: 1em;
