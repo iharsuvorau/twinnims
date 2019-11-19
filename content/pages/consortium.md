@@ -14,7 +14,7 @@ weight: 20
 
 ## Tartu Ülikool
 
-<img srcset="/img/ut-logo@.png, /img/ut-logo@2x.png 2x" src="/img/ut-logo.png" width="85px">
+<img srcset="/img/ut-logo.png, /img/ut-logo@2x.png 2x" src="/img/ut-logo.png" width="85px">
 
 Professor [Alvo Aabloo](https://ims.ut.ee/User:Alvo)<br/>
 [+372 507-8356](tel:+372 507-8356)<br/>
