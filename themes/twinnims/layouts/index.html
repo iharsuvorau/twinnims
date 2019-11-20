@@ -5,7 +5,7 @@
 	{{ end }}
 	{{ partial "summary.html" . }}
 	{{ with .Content }}<article class="mb4">{{ . }}</article>{{ end }}
-	{{ with $.Site.GetPage "/news" }}
+	{{ with $.Sites.First.GetPage "/news" }}
 	    <section class="recent-news mb4">
 		<h2>{{ T "recentNews" }}</h2>
 		<div class="recent-news-list">
