@@ -5,56 +5,18 @@
     <link>https://www.twinnims.eu/news/</link>
     <description>Recent content in News on Twinnims</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Nov 2019 14:13:13 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2019 13:06:16 +0200</lastBuildDate>
     
 	<atom:link href="https://www.twinnims.eu/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Youtube Example</title>
-      <link>https://www.twinnims.eu/news/youtube-example/</link>
-      <pubDate>Sun, 17 Nov 2019 14:13:13 +0200</pubDate>
+      <title>Twinnims Kick-Off Meeting</title>
+      <link>https://www.twinnims.eu/news/twinnims-kick-off/</link>
+      <pubDate>Wed, 20 Nov 2019 13:06:16 +0200</pubDate>
       
-      <guid>https://www.twinnims.eu/news/youtube-example/</guid>
-      <description>Starship update.</description>
-    </item>
-    
-    <item>
-      <title>Tweet Example</title>
-      <link>https://www.twinnims.eu/news/tweet-example/</link>
-      <pubDate>Sun, 17 Nov 2019 14:08:09 +0200</pubDate>
-      
-      <guid>https://www.twinnims.eu/news/tweet-example/</guid>
-      <description>Porta nibh venenatis cras sed felis eget velit aliquet. Convallis tellus id interdum velit laoreet. Orci phasellus egestas tellus rutrum tellus pellentesque. Elementum sagittis vitae et leo duis ut diam quam. Tellus mauris a diam maecenas sed enim ut. Nec nam aliquam sem et tortor consequat id. Sit amet commodo nulla facilisi nullam vehicula ipsum a. Vel elit scelerisque mauris pellentesque pulvinar pellentesque habitant. Blandit massa enim nec dui nunc mattis enim ut tellus.</description>
-    </item>
-    
-    <item>
-      <title>Sed Nisi</title>
-      <link>https://www.twinnims.eu/news/sed-nisi/</link>
-      <pubDate>Sun, 17 Nov 2019 13:07:02 +0200</pubDate>
-      
-      <guid>https://www.twinnims.eu/news/sed-nisi/</guid>
-      <description>Sed nisi lacus sed viverra tellus. Pulvinar mattis nunc sed blandit libero volutpat. Sit amet purus gravida quis blandit turpis cursus in hac. Arcu vitae elementum curabitur vitae nunc sed velit. Placerat in egestas erat imperdiet. Odio facilisis mauris sit amet massa vitae tortor condimentum. Sodales ut etiam sit amet nisl. Morbi leo urna molestie at elementum eu. Aliquam nulla facilisi cras fermentum. Diam ut venenatis tellus in metus vulputate eu.</description>
-    </item>
-    
-    <item>
-      <title>Condimentum Vitae</title>
-      <link>https://www.twinnims.eu/news/condimentum-vitae/</link>
-      <pubDate>Sun, 17 Nov 2019 13:06:55 +0200</pubDate>
-      
-      <guid>https://www.twinnims.eu/news/condimentum-vitae/</guid>
-      <description>&lt;p&gt;Condimentum vitae sapien pellentesque habitant morbi. Semper feugiat nibh sed pulvinar proin gravida hendrerit lectus. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Urna cursus eget nunc scelerisque. Est pellentesque elit ullamcorper dignissim cras tincidunt. Diam donec adipiscing tristique risus nec. Enim neque volutpat ac tincidunt vitae semper quis lectus nulla. Morbi tempus iaculis urna id volutpat lacus laoreet non curabitur. Egestas integer eget aliquet nibh praesent.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>https://www.twinnims.eu/news/lorem-ipsum/</link>
-      <pubDate>Sun, 17 Nov 2019 13:06:47 +0200</pubDate>
-      
-      <guid>https://www.twinnims.eu/news/lorem-ipsum/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.twinnims.eu/news/lucas-vasques-9vnACvX2748-unsplash.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Orci phasellus egestas tellus rutrum tellus pellentesque eu. Orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Suscipit adipiscing bibendum est ultricies integer quis auctor.&lt;/p&gt;</description>
+      <guid>https://www.twinnims.eu/news/twinnims-kick-off/</guid>
+      <description>The launch meeting takes place on November the 21st, 2019 in Sheraton Amsterdam Airport Hotel &amp;amp; Conference Center, Frankfurt.</description>
     </item>
     
   </channel>

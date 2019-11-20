@@ -12,4 +12,33 @@ menu: "main"
 weight: 30
 ---
 
-Content
+## Frédéric Vidal
+
+Professeur, Laboratoire de Physicochimie des Polymères et des Interfaces<br/>
+Vice-président pour la recherche de Cergy-Pontoise Université de Cergy-Pontoise<br/>
+France 🇫🇷
+
+## John D.W. Madden
+
+Directeur du Laboratoire d'ingénierie des matériaux et procédés avancés et professeur<br/>
+Université de Colombie Britannique<br/>
+Canada 🇨🇦
+
+## Zicai Zhu
+
+Professeur agrégé<br/>
+Xi´an Jiaotong University<br/>
+Chine 🇨🇳
+
+## Yanhai Zhang
+
+Chef de projet<br/>
+Huawei Technologies Co., LTD<br/>
+Chine 🇨🇳
+
+## Daan van den Ende
+
+Scientifique senior<br/>
+Philips<br/>
+Pays-Bas 🇳🇱
+

@@ -1,7 +1,7 @@
 ---
-title: "Publications"
+title: "Pubblicazioni"
 subtitle:
-summary: Joined open publication of the participants
+summary: Pubblicazione aperta congiunta dei partecipanti
 slug:
 date: 2019-11-16T14:22:25+02:00
 publishDate: 2019-11-16T14:22:25+02:00

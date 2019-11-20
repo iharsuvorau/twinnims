@@ -1,7 +1,7 @@
 ---
 title: "Advisory Board"
 subtitle:
-summary: People who oversight the project implementation
+summary: Persone che supervisionano l'implementazione del progetto
 slug:
 date: 2019-11-16T14:18:43+02:00
 lastmod: 2019-11-17T12:38:03+02:00
@@ -14,27 +14,30 @@ weight: 30
 
 ## Frédéric Vidal
 
-Professor, Laboratoire de Physicochimie des Polymères et des Interfaces<br/>
-Vice-President for Research of the University of Cergy-Pontoise Université de Cergy-Pontoise<br/>
-France 🇫🇷
+Professore, Laboratoire de Physicochimie des Polymères et des Interfaces<br/>
+Vicepresidente per la ricerca della Cergy-Pontoise Université de Cergy-Pontoise<br/>
+Francia 🇫🇷
 
 ## John D.W. Madden
 
-Director of the Advanced Materials and Process Engineering Lab and Professor<br/>
-University of British Columbia<br/>
+Direttore del Laboratorio di materiali avanzati e ingegneria di processo e professore<br/>
+Università della Columbia Britannica<br/>
 Canada 🇨🇦
 
 ## Zicai Zhu
 
-Associate Professor, Xi´an Jiaotong University<br/>
-China 🇨🇳
+Professore associato<br/>
+Xi´an Jiaotong University<br/>
+Cina 🇨🇳
 
 ## Yanhai Zhang
 
-Project Manager, Huawei Technologies Co., LTD<br/>
-China 🇨🇳
+Responsabile del progetto<br/>
+Huawei Technologies Co., LTD<br/>
+Cina 🇨🇳
 
 ## Daan van den Ende
 
-Senior Scientist, Philips<br/>
-Netherlands 🇳🇱
+Scienziato senior<br/>
+Philips<br/>
+Olanda 🇳🇱

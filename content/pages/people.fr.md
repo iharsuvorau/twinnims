@@ -11,4 +11,4 @@ menu: "main"
 weight: 40
 ---
 
-List of people with photo, short description, link to the own webpage and ORCID if available.
+People page in French.
