@@ -12,7 +12,7 @@
 		    {{ range first 10 .Pages }}
 			<article class="mb1">
 			    <h3 class="m0"><a href="{{ .URL }}">{{.Name}}</a></h3>
-			    <span class="small-sans">{{ .PublishDate.Format "02 Jan 2006" }}</span>
+			    <span class="small-sans">{{ .Lastmod.Format "02 Jan 2006" }}</span>
 			</article>
 		    {{ end }}
 		</div>
