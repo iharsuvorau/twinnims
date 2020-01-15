@@ -17,3 +17,8 @@ enableMissingTranslationPlaceholders = true
   [languages.it]
     title = "Twinnims"
     weight = 3
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
