@@ -16,8 +16,8 @@ weight: 20
 <img srcset="/img/ut-logo.png, /img/ut-logo@2x.png 2x" src="/img/ut-logo.png" width="85px">
 
 Professor [Alvo Aabloo](https://ims.ut.ee/User:Alvo)<br/>
-[+372 507-8356](tel:+372 507-8356)<br/>
-[alvo.aabloo@ut.ee](mailto:alvo.aabloo@ut.ee)
+[+372 507-8356](tel:+3725078356)<br/>
+<alvo.aabloo@ut.ee>
 
 Tartu Ülikool, Ülikooli 18, 50090 Tartu<br/>
 [www.ut.ee](https://www.ut.ee/et)
@@ -31,7 +31,7 @@ Eesti 🇪🇪
 <img srcset="/img/iit-logo.jpg, /img/iit-logo@2x.jpg 2x" src="/img/iit-logo.jpg" />
 
 Professor [Barbara Mazolai](https://mbr.iit.it/about/barbara-mazzolai.html)<br/>
-[barbara.mazzolai@iit.it](mailto:barbara.mazzolai@iit.it)
+<barbara.mazzolai@iit.it>
 
 Via Morego 30, 16163 Genova<br/>
 [www.iit.it](https://www.iit.it/)
