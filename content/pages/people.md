@@ -14,7 +14,7 @@ weight: 40
 
 ## Alvo Aabloo
 
-<!-- ![Alvo Aabloo, Professor, University of Tartu](/img/alvo6a.jpg) -->
+<!-- ![Alvo Aabloo, Professor, University of Tartu](/content_img/alvo6a.jpg) -->
 
 Professor, University of Tartu
 
@@ -28,7 +28,7 @@ Alvo Aabloo is in charge of Intelligent Materials and Systems Lab, the interdisc
 
 ## Barbara Mazzolai
 
-<!-- ![](/img/barbara.jpg) -->
+<!-- ![](/content_img/barbara.jpg) -->
 
 Senior Researcher Tenured, Principal Investigator, Center Coordinator
 
@@ -40,9 +40,9 @@ She graduated (MSc) in Biology (with Honours) at the University of Pisa, Italy, 
 
 From January to July 2017 she was Visiting Faculty at Aerial Robotics Lab, Department of Aeronautics, of Imperial College of London.
 
-In 2010 she received the ""Marisa Bellisario"" Award for her scientific and management activities in the EU DustBot project for improving the urban hygiene and the quality of life of citizens. In 2013 she was awarded the Medal of the Senate of the Italian Republic for her scientific activities in biomimetics and biorobotics. In 2015 she was listed among the 25 most influential women in robotics by RoboHub.
+In 2010 she received the "Marisa Bellisario" Award for her scientific and management activities in the EU DustBot project for improving the urban hygiene and the quality of life of citizens. In 2013 she was awarded the Medal of the Senate of the Italian Republic for her scientific activities in biomimetics and biorobotics. In 2015 she was listed among the 25 most influential women in robotics by RoboHub.
 
-Her current scientific activity focuses on bioinspired soft robotics, with a particular research interest in merging Biology and Engineering (see e.g. B Mazzolai, Biology for Robotics-A Multidisciplinary Approach to a Researcher's Life [Women in Engineering], IEEE Robotics & Automation Magazine 23 (1), 114-115, 2016). She has a long experience as Project Manager of European Projects in this field (e.g. OCTOPUS, FP7-231608; HydroNet, FP7-212790; DustBot, FP6-045299; EMECAP, QLK4-CT-2000-00489; etc.) and she was the Coordinator of the FET-Open PLANTOID European Project (n° 293431). She was the Project Manager of the SeedBot ESA-ARIADNA Project in 2006 and, more recently, the Principal Investigator for CMBR-IIT of the ESA-ARIADNA Study Project, titled ""Self-burial strategy and performance in Erodium cicutarium (SeeDriller)"", aimed at studying the soil penetration strategies implemented by the seed of this plant and developing models based on these penetration mechanisms. She is the Principal Investigator for CMBR-IIT for the EC H2020-ICT-2015 XoSoft Project (Soft modular biomimetic exoskeleton to assist people with mobility impairments).
+Her current scientific activity focuses on bioinspired soft robotics, with a particular research interest in merging Biology and Engineering (see e.g. B Mazzolai, Biology for Robotics-A Multidisciplinary Approach to a Researcher's Life [Women in Engineering], IEEE Robotics & Automation Magazine 23 (1), 114-115, 2016). She has a long experience as Project Manager of European Projects in this field (e.g. OCTOPUS, FP7-231608; HydroNet, FP7-212790; DustBot, FP6-045299; EMECAP, QLK4-CT-2000-00489; etc.) and she was the Coordinator of the FET-Open PLANTOID European Project (n° 293431). She was the Project Manager of the SeedBot ESA-ARIADNA Project in 2006 and, more recently, the Principal Investigator for CMBR-IIT of the ESA-ARIADNA Study Project, titled "Self-burial strategy and performance in Erodium cicutarium (SeeDriller)", aimed at studying the soil penetration strategies implemented by the seed of this plant and developing models based on these penetration mechanisms. She is the Principal Investigator for CMBR-IIT for the EC H2020-ICT-2015 XoSoft Project (Soft modular biomimetic exoskeleton to assist people with mobility impairments).
 
 She has been member of panels of the European Commission within the Seventh Frame Program in the field of Robotics and ICT, and of the Portuguese Foundation for Science and Technology in the field of Environment and Health. She is member of the Editorial Board of Bioinspiration & Biomimetics, Soft Robotics, Biomimetics, Robotics & Automation Letters, and Associated Editor for Frontiers in Bionics and Biomimetics. She served as Associated Editor for ICRA 2016-2018, IEEE RA-L 2016-2018, IROS 2013 and 2017, as Interdisciplinary Program Co-Chairs for RoboSoft 2018, Government Forum Co-Chair for IROS 2016, and Publicity Co-Chair for BIOROB 2012.
 
@@ -52,7 +52,7 @@ She is author of more than 180 papers appeared in international journals, books,
 
 ## Eric Cattan
 
-<!-- ![](/img/cattan.jpg) -->
+<!-- ![](/content_img/cattan.jpg) -->
 
 Professor, UPHF Valenciennes, France
 
@@ -76,7 +76,7 @@ Janno Torop Is a researcher in metarials science in IMS lab, University of Tartu
 
 ## Saoni Banerji
 
-<!-- ![](/img/banerji.jpg) -->
+<!-- ![](/content_img/banerji.jpg) -->
 
 Research Fellow (CMOS-MEMS, microfabrication, microelectronic design)
 
@@ -93,7 +93,7 @@ Research Fellow (CMOS-MEMS, microfabrication, microelectronic design)
 
 ## Sebastien Grondel
 
-<!-- ![](/img/grondel.jpg) -->
+<!-- ![](/content_img/grondel.jpg) -->
 
 Professor, UPHF Valenciennes, France 
 
@@ -114,7 +114,7 @@ PhD student, UTARTU
 ## Isabella Fiorello
 
 
-<!-- ![](/img/fiorello.jpg) -->
+<!-- ![](/content_img/fiorello.jpg) -->
 
 PhD student, Center for Micro-BioRobotics (CMBR) of Istituto Italiano di Tecnologia (IIT), Pontedera, Italy
 
@@ -126,7 +126,7 @@ Isabella Fiorello is a PhD student in Biorobotics jointly at Scuola Superiore Sa
 
 ## Kaija Pohako-Esko
 
-<!-- ![](/img/pohakoesko.jpg) -->
+<!-- ![](/content_img/pohakoesko.jpg) -->
 
 Research fellow of materials technology
 
@@ -139,11 +139,11 @@ Kaija Pohako-Esko received her PhD degree in organic chemistry from University o
 
 ## Sofiane Ghenna
 
-<!-- ![](/img/ghenna.jpg) -->
+<!-- ![](/content_img/ghenna.jpg) -->
 
 Assistant professor, UPHF Valenciennes, France 
 
 - Email: [sofiane.ghenna@uphf.fr](mailto:sofiane.ghenna@uphf.fr)
 - Social networks: [linkedin](https://www.linkedin.com/in/sofiane-ghenna)
 
-Sofiane GHENNA, received the Ph.D degree in electrical engineering from Lille University, France, in 2016. After one year as Temporary Teaching and Research Assistant at Lille University, and two years as Post-Doctoral researcher at CentraleSupélec, Paris, He is currentlly assistant professor at UPHF Valenciennes, France. His research interests include design, modeling and control of smart materials based actuators
+Sofiane Ghenna received the Ph.D degree in electrical engineering from Lille University, France, in 2016. After one year as Temporary Teaching and Research Assistant at Lille University, and two years as Post-Doctoral researcher at CentraleSupélec, Paris, He is currentlly assistant professor at UPHF Valenciennes, France. His research interests include design, modeling and control of smart materials based actuators
