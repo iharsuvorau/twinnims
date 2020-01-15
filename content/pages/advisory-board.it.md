@@ -14,30 +14,30 @@ weight: 30
 
 ## Frédéric Vidal
 
-Professore, Laboratoire de Physicochimie des Polymères et des Interfaces<br/>
-Vicepresidente per la ricerca della Cergy-Pontoise Université de Cergy-Pontoise<br/>
+Professore, Laboratoire de Physicochimie des Polymères et des Interfaces\
+Vicepresidente per la ricerca della Cergy-Pontoise Université de Cergy-Pontoise\
 Francia 🇫🇷
 
 ## John D.W. Madden
 
-Direttore del Laboratorio di materiali avanzati e ingegneria di processo e professore<br/>
-Università della Columbia Britannica<br/>
+Direttore del Laboratorio di materiali avanzati e ingegneria di processo e professore\
+Università della Columbia Britannica\
 Canada 🇨🇦
 
 ## Zicai Zhu
 
-Professore associato<br/>
-Xi´an Jiaotong University<br/>
+Professore associato\
+Xi´an Jiaotong University\
 Cina 🇨🇳
 
 ## Yanhai Zhang
 
-Responsabile del progetto<br/>
-Huawei Technologies Co., LTD<br/>
+Responsabile del progetto\
+Huawei Technologies Co., LTD\
 Cina 🇨🇳
 
 ## Daan van den Ende
 
-Scienziato senior<br/>
-Philips<br/>
+Scienziato senior\
+Philips\
 Olanda 🇳🇱
