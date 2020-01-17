@@ -16,40 +16,28 @@ weight: 20
 
 <img srcset="/img/ut-logo.png, /img/ut-logo@2x.png 2x" src="/img/ut-logo.png" width="85px">
 
-Professor [Alvo Aabloo](https://ims.ut.ee/User:Alvo)<br/>
-[+372 507-8356](tel:+3725078356)<br/>
+Professor [Alvo Aabloo](https://ims.ut.ee/User:Alvo)\
+[+372 507-8356](tel:+3725078356)\
 <alvo.aabloo@ut.ee>
-
-Tartu Ülikool, Ülikooli 18, 50090 Tartu<br/>
-[www.ut.ee](https://www.ut.ee/et)
-
+Tartu Ülikool, Ülikooli 18, 50090 Tartu\
+[www.ut.ee](https://www.ut.ee/et)\
 Estonia 🇪🇪
-
----
 
 ## Fondazione Istituto Italiano di Tecnologia
 
 <img srcset="/img/iit-logo.jpg, /img/iit-logo@2x.jpg 2x" src="/img/iit-logo.jpg" />
 
-Professor [Barbara Mazolai](https://mbr.iit.it/about/barbara-mazzolai.html)<br/>
+Professor [Barbara Mazolai](https://mbr.iit.it/about/barbara-mazzolai.html)\
 <barbara.mazzolai@iit.it>
-
-Via Morego 30, 16163 Genova<br/>
-[www.iit.it](https://www.iit.it/)
-
+Via Morego 30, 16163 Genova\
+[www.iit.it](https://www.iit.it/)\
 Italy 🇮🇹
-
----
 
 ## Centre National de la Recherche Scientifique
 
 <img src="/img/cnrs-logo.svg" width="75px" />
 
 Professor Eric Cattan
-
-Rue Michel Ange 3, 75794 Paris<br/>
-[www.cnrs.fr](https://www.cnrs.fr/)<br/>
-
+Rue Michel Ange 3, 75794 Paris\
+[www.cnrs.fr](https://www.cnrs.fr/)\
 France 🇫🇷
-
----

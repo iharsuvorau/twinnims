@@ -91,6 +91,8 @@ h1 {
 
 h2 {
   line-height: 1.15em;
+  margin-bottom: 0.5em;
+  margin-top: 1.5em;
 }
 
 a {
@@ -418,7 +420,7 @@ figcaption p {
   flex-wrap: wrap;
 }
 
-.site-summary-list a, .list-view article h2 a {
+.site-summary-list a, .list-view article h2 a, .single-view h2 a {
   text-decoration-thickness: .2rem;
 }
 
@@ -631,4 +633,8 @@ figcaption p {
 
 .thick-underline {
   text-decoration-thickness: .2rem;
+}
+
+.two-cols {
+  column-count: 2;
 }

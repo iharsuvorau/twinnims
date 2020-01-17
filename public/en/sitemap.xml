@@ -79,7 +79,7 @@
   
   <url>
     <loc>https://www.twinnims.eu/pages/people/</loc>
-    <lastmod>2020-01-14T12:35:03+02:00</lastmod>
+    <lastmod>2020-01-15T15:35:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -128,13 +128,53 @@
   </url>
   
   <url>
-    <loc>https://www.twinnims.eu/news/</loc>
-    <lastmod>2019-11-22T20:51:13+02:00</lastmod>
+    <loc>https://www.twinnims.eu/pages/people/aabloo/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/cattan/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/must/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/fiorello/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/torop/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/pohako-esko/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/banerji/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/grondel/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/pages/people/ghenna/</loc>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.twinnims.eu/</loc>
-    <lastmod>2020-01-14T12:35:03+02:00</lastmod>
+    <lastmod>2020-01-15T15:53:03+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ee"
@@ -158,13 +198,23 @@
   </url>
   
   <url>
+    <loc>https://www.twinnims.eu/pages/people/mazzolai/</loc>
+    <lastmod>2020-01-14T12:35:03+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.twinnims.eu/news/</loc>
+    <lastmod>2019-11-22T20:51:13+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.twinnims.eu/news/twinnims-kick-off/</loc>
     <lastmod>2019-11-22T20:51:13+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.twinnims.eu/pages/</loc>
-    <lastmod>2020-01-14T12:35:03+02:00</lastmod>
+    <lastmod>2019-11-19T14:49:21+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ee"
