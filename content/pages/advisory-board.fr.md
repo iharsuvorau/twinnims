@@ -42,3 +42,8 @@ Scientifique senior\
 Philips\
 Pays-Bas 🇳🇱
 
+## Stefano Linari
+
+PDG et fondateur d'Alleantia, Linari Engineering et iProd\
+iProd srl\
+Italie 🇮🇹

@@ -41,3 +41,9 @@ Hiina 🇨🇳
 Vanemteadur\
 Philips\
 Holland 🇳🇱
+
+## Stefano Linari
+
+Alleantia, Linari Engineering ja iProd tegevjuht ja asutaja\
+iProd srl\
+Itaalia 🇮🇹

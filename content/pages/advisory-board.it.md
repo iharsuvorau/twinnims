@@ -41,3 +41,9 @@ Cina 🇨🇳
 Scienziato senior\
 Philips\
 Olanda 🇳🇱
+
+## Stefano Linari
+
+Amministratore delegato e fondatore di Alleantia, Linari Engineering ed iProd\
+iProd srl\
+Italia 🇮🇹

@@ -41,3 +41,9 @@ China 🇨🇳
 Senior Scientist\
 Philips\
 Netherlands 🇳🇱
+
+## Stefano Linari
+
+CEO and founder of Alleantia, Linari Engineering and iProd\
+iProd srl\
+Italy 🇮🇹
