@@ -2,7 +2,6 @@
 
 The repository contains the [Hugo](https://gohugo.io)-made website.
 
-- the whole current website of [twinnims.eu](https://www.twinnims.eu) at `/public`, 
 - all the content (`/content`), 
 - static assets (`/static`/, `/themes/twinnims/static`),
 - translations (`/themes/twinnims/i18n`)
@@ -10,10 +9,10 @@ The repository contains the [Hugo](https://gohugo.io)-made website.
 
 ## Deployment
 
-To serve the website you need to copy `/public` to your webserver document root folder:
+To publish the website you need to generate HTML with all assets to `/public` folder and copy it to a webserver's document root folder. There is a tiny script for this ([Hugo](https://gohugo.io/getting-started/installing/) must be installed), run it:
 
 ```
-rsync -avz public/ twinnims@twinnims.eu:~/public_html/
+./deploy.sh
 ```
 
 ## Getting Started
