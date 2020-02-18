@@ -121,6 +121,16 @@ figcaption p {
   margin: 0;
 }
 
+video {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.video-wrapper {
+  position: relative;
+  padding: 8px 40px;
+}
+
 /* structural elements */
 
 .wrapper {
