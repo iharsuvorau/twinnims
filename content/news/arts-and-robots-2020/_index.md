@@ -11,7 +11,7 @@ It was organized together with [University of Tartu](https://www.facebook.com/ta
 *Garage48 Arts & Robots 2020* is a 48-hour development weekend for building prototypes of ideas connecting bio- and soft robotics, hardware and software engineering and the arts. The event had special focus on soft and bioinspired robotics. Participants from all three partners took place as participants and mentors.
 
 <div class="video-wrapper">
-    <video controls poster="video-poster.jpg">
+    <video controls poster="video-poster.jpg" style="width: 100%;">
         <source src="arts-and-robots-2020.mp4" type="video/mp4">
         Sorry, your browser doesn't support embedded videos.
     </video>

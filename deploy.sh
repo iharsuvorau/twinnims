@@ -1,4 +1,4 @@
 #!/bin/bash
 
 hugo
-rsync -avz public/ twinnims@twinnims.eu:~/public_html/
+rsync -avz --omit-dir-times public/ twinnims@twinnims.eu:~/public_html/
